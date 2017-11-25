@@ -1,5 +1,0 @@
-C:\Users\Mostafa\Documents\Repos\PayRoll_Example\PayRollExample\bin\Debug\PayRollExample.exe.config
-C:\Users\Mostafa\Documents\Repos\PayRoll_Example\PayRollExample\bin\Debug\PayRollExample.exe
-C:\Users\Mostafa\Documents\Repos\PayRoll_Example\PayRollExample\bin\Debug\PayRollExample.pdb
-C:\Users\Mostafa\Documents\Repos\PayRoll_Example\PayRollExample\obj\Debug\PayRollExample.exe
-C:\Users\Mostafa\Documents\Repos\PayRoll_Example\PayRollExample\obj\Debug\PayRollExample.pdb
