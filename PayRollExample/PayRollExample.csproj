@@ -43,9 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommisionPayroll.cs" />
+    <Compile Include="FlatSalaryPayroll.cs" />
+    <Compile Include="HourlyPayRoll.cs" />
     <Compile Include="IPayrollStrategy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaleReceipt.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
